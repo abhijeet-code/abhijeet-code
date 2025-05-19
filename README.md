@@ -36,7 +36,7 @@
 ## 🚀 PROJECTS
 💰 **FinRisk**
 
-🔊 **SpeeechSync -- Speech-to-Speech Translation**  
+🔊 **SpeeechSync -- Speech-to-Speech Translation**] 
 Real-time multilingual translator using ASR, NMT, and TTS.  
 <sub><i>Python | OpenAI Whisper | MarianMT | Tacotron</i></sub>      
 
