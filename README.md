@@ -1,61 +1,65 @@
-<!-- README.md for GitHub Profile -->
+
 
 <h1 align="center">Hi there 👋, I'm Abhijeet Dubey</h1>
-<h3 align="center">A passionate developer, creator, and learner </h3>
+<p align="center">
+  <i>Aspiring Compititive Coder | ML Engineer | Developer</i>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+love+building+cool+things;Open+source+enthusiast;Let's+connect!&center=true&width=500&height=45">
+  🚀 Passionate about turning ideas into intelligent, scalable solutions. <br>
+  🧠 Exploring the intersections of AI, software, and innovation.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **FinRisk**
-- 🌱 I’m currently learning: **Advanced Machine Learning, Compititive Programming**
-- 💬 Ask me about: **Tech-Cricket.......**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,c++,java,html,css,tailwind,git,github,vscode,linux,docker,mysql,mongodb,js,nodejs," />
-</p>
+- 🎓 B.Tech Computer Science (AI & ML), 5th Semester
+- 💼 Currently building projects in Finance, AI, ML & NLP 
+- 🧪 Research-Driven | Compititive Coder
+- 🧠 Learner | Innovation Seeker
+- 📍 Based in New Delhi, India
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
+
+| Category              | Technologies                                                                 |
+|-----------------------|------------------------------------------------------------------------------|
+| 👨‍💻 Languages         | SQL, Python, C++, Java, Javascript, HTML, CSS, Bash                          |
+| 🧠 Frameworks & Libs | TensorFlow, PyTorch, Scikit-learn, MediaPipe, Flask, Django, SpringBoot      |
+| 🧰 Tools & Platforms | Models, POSIX pthreads, C++STL, TKinter, Flask, Socket Programming, OOPs     |
+| 🎨 Skills            | UI/UX Design, Research Writing, Statistical Analysis, Computational Analysis |
+
+---
+
+## 🚀 PROJECTS
+💰 **FinRisk**
+
+🔊 **SpeeechSync -- Speech-to-Speech Translation**  
+Real-time multilingual translator using ASR, NMT, and TTS.  
+<sub><i>Python | OpenAI Whisper | MarianMT | Tacotron</i></sub>      
+
+💰 **Auction Platform**  
+A full-stack bidding platform for auction listings and sales simply you can list, bid, and sell item.  
+<sub><i>Django | HTML | CSS | Javascript | SQLite</i></sub>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-code&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 🌐 Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="mailto:you@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
-
----
-
-### 🧩 Fun Projects
-
-- 🎮 [Project One Name](#): short description
-- 📚 [Project Two Name](#): short description
-- 🛠️ [Project Three Name](#): short description
-
----
+- 📧 [Email](mailto:dubeyabhijeet0311@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aiconq/)  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <b>Let’s create something meaningful! 🚀</b>
 </p>
-
----
-
-⭐️ From [YourUsername](https://github.com/YourUsername)
