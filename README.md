@@ -43,7 +43,7 @@
 > A full-stack bidding platform for auction listings and sales simply you can list, bid, and sell item.<br> <i>Django | HTML | CSS | Javascript | SQLite</i>
 
 ---
-## 📊CP Profile 
+## 📊Code Profiles 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aiabhijeet?theme=dark&font=Saira%20Extra%20Condensed&ext=activity)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aiconq&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/aiconq)
 
