@@ -12,22 +12,22 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science (AI & ML), 5th Semester
-- 💼 Currently building projects in Finance, AI, ML & NLP 
-- 🧪 Research-Driven | Competitive programmer
-- 🧠 Learner | Innovation Seeker
-- 📍 Based in New Delhi, India
+- 🎓 **B.Tech Computer Science (AI & ML)**, 5th Semester
+- 💼 Currently building projects in **Finance, AI, ML & NLP** 
+- 🧪 **Research-Driven | Competitive programmer**
+- 🧠 **Learner | Innovation Seeker**
+- 📍 Based in **New Delhi, India**
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category              | Technologies                                                                 |
-|-----------------------|------------------------------------------------------------------------------|
-| 👨‍💻 Languages         | SQL, Python, C++, Java, Javascript, HTML, CSS, Bash                          |
-| 🧠 Frameworks & Libs | TensorFlow, PyTorch, Scikit-learn, MediaPipe, Flask, Django, SpringBoot      |
-| 🧰 Tools & Platforms | Models, POSIX pthreads, C++STL, TKinter, Flask, Socket Programming, OOPs     |
-| 🎨 Skills            | UI/UX Design, Research Writing, Statistical Analysis, Computational Analysis |
+| Category                  | Technologies                                                                 |
+|---------------------------|------------------------------------------------------------------------------|
+| 👨‍💻 **Languages**         | SQL, Python, C++, Java, Javascript, HTML, CSS, Bash                          |
+| 🧠 **Frameworks & Libs** | TensorFlow, PyTorch, Scikit-learn, MediaPipe, Flask, Django, SpringBoot      |
+| 🧰 **Tools & Platforms** | Models, POSIX pthreads, C++STL, TKinter, Flask, Socket Programming, OOPs     |
+| 🎨 **Skills**            | UI/UX Design, Research Writing, Statistical Analysis, Computational Analysis |
 
 ---
 
@@ -63,9 +63,9 @@
 
 ## 🌐 Connect
 
-- 📧 [Email](mailto:dubeyabhijeet0311@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aiconq/)  
+- 📧 [**Email**](mailto:dubeyabhijeet0311@gmail.com)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/aiconq/)  
 
 <p align="center">
-  <b>Let’s create something meaningful! 🚀</b>
+  <b><i>Let’s join & create something meaningful!</i> 🚀</b>
 </p>
