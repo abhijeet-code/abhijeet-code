@@ -36,7 +36,7 @@
 ## 🚀 PROJECTS
 💰 **FinRisk**
 
-🔊 **SpeeechSync -- Speech-to-Speech Translation**
+🔊 [**SpeeechSync -- Speech-to-Speech Translation**](https://auction-rust.vercel.app/)
 > Real-time multilingual translator using ASR, NMT, and TTS.<br><i>Python | OpenAI Whisper | MarianMT | Tacotron</i> 
 
 💰 **Auction Platform** 
