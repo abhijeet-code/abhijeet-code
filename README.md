@@ -44,7 +44,7 @@
 
 ---
 ## 📊Code Profiles 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aiabhijeet?theme=dark&font=Saira%20Extra%20Condensed&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aiabhijeet?theme=dark&font=Overlock%20SC&ext=activity)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aiconq&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/aiconq)
 
 ## 📊 GitHub Stats
