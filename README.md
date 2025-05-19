@@ -48,7 +48,7 @@
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aiconq&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/aiconq)
 
 ## 📊Code Profiles 
-<p align="center">
+<p>
   <a href="https://leetcode.com/name/">
     <img src="https://leetcard.jacoblin.cool/name?theme=dark&font=Overlock%20SC&ext=activity" width="400"/>
   </a>
