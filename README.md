@@ -44,16 +44,12 @@
 
 ---
 ## 📊Code Profiles 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aiabhijeet?theme=dark&font=Overlock%20SC&ext=activity)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aiconq&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/aiconq)
-
-## 📊Code Profiles 
 <p>
   <a href="https://leetcode.com/name/">
-    <img src="https://leetcard.jacoblin.cool/name?theme=dark&font=Overlock%20SC&ext=activity" width="400"/>
+    <img src="https://leetcard.jacoblin.cool/aiabhijeet?theme=dark&font=Overlock%20SC&ext=activity" width="400"/>
   </a>
-  <a href="https://codeforces.com/profile/name">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=name&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" width="400"/>
+  <a href="https://codeforces.com/profile/aiconq">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aiconq&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" width="400"/>
   </a>
 </p>
 
