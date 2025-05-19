@@ -1,8 +1,6 @@
-
-
 <h1 align="center">Hi there 👋, I'm Abhijeet Dubey</h1>
 <p align="center">
-  <i> **Aspiring Compititive Coder | ML Engineer | Developer** </i>
+  <i> <h4>Aspiring Compititive Coder | ML Engineer | Developer</h4></i>
 </p>
 
 <p align="center">
