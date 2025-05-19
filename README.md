@@ -1,7 +1,7 @@
 <!-- README.md for GitHub Profile -->
 
-<h1 align="center">Hi there 👋, I'm **[Abhijeet Dubey]**</h1>
-<h3 align="center">A passionate developer, creator, and  </h3>
+<h1 align="center">Hi there 👋, I'm Abhijeet Dubey</h1>
+<h3 align="center">A passionate developer, creator, and learner </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I+love+building+cool+things;Open+source+enthusiast;Let's+connect!&center=true&width=500&height=45">
@@ -11,10 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **[Your Current Project or Learning]**
-- 🌱 I’m currently learning: **[Languages/Tech Stack]**
-- 💬 Ask me about: **[Topics you're confident in]**
-- ⚡ Fun fact: *[Something unique about you]*
+- 🔭 I’m currently working on: **FinRisk**
+- 🌱 I’m currently learning: **Advanced Machine Learning, Compititive Programming**
+- 💬 Ask me about: **Tech-Cricket.......**
 
 ---
 
