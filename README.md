@@ -20,7 +20,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,java,html,css,tailwind,git,github,vscode,linux,docker,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,django,c++,java,html,css,tailwind,git,github,vscode,linux,docker,mysql,mongodb,js,nodejs," />
 </p>
 
 ---
