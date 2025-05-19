@@ -47,6 +47,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aiabhijeet?theme=dark&font=Overlock%20SC&ext=activity)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aiconq&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/aiconq)
 
+## 📊Code Profiles 
+[![Codeforces](https://img.shields.io/badge/Codeforces-aiconq-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/aiconq)
+[![LeetCode](https://img.shields.io/badge/LeetCode-aiabhijeet-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/aiabhijeet/)
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
