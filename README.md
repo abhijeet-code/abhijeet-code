@@ -3,7 +3,7 @@
   <i> <h4>Aspiring Compititive Coder | ML Engineer | Developer</h4></i>
 </p>
 
-<p align="center">
+<p >
   🚀 Passionate about turning ideas into intelligent, scalable solutions. <br>
   🧠 Exploring the intersections of AI, software, and innovation.
 </p>
