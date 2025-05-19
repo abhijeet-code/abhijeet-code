@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abhijeet Dubey</h1>
 <p align="center">
-  <i> <h4>Aspiring Compititive Coder | ML Engineer | Developer</h4></i>
+  <i> <h4>Aspiring Competitive programmer | ML Engineer | Developer</h4></i>
 </p>
 
 <p >
@@ -14,7 +14,7 @@
 
 - 🎓 B.Tech Computer Science (AI & ML), 5th Semester
 - 💼 Currently building projects in Finance, AI, ML & NLP 
-- 🧪 Research-Driven | Compititive Coder
+- 🧪 Research-Driven | Competitive programmer
 - 🧠 Learner | Innovation Seeker
 - 📍 Based in New Delhi, India
 
