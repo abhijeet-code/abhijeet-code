@@ -43,6 +43,8 @@
 > A full-stack bidding platform for auction listings and sales simply you can list, bid, and sell item.<br> <i>Django | HTML | CSS | Javascript | SQLite</i>
 
 ---
+## 📊CP Profile 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aiconq&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/aiconq)
 
 ## 📊 GitHub Stats
 
