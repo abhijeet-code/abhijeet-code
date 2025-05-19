@@ -39,7 +39,7 @@
 🔊 **SpeeechSync -- Speech-to-Speech Translation**
 > Real-time multilingual translator using ASR, NMT, and TTS.<br><i>Python | OpenAI Whisper | MarianMT | Tacotron</i> 
 
-💰 [**Auction Platform**]((https://auction-rust.vercel.app/)) 
+💰 [**Auction Platform**](https://auction-rust.vercel.app/)
 > A full-stack bidding platform for auction listings and sales simply you can list, bid, and sell item.<br> <i>Django | HTML | CSS | Javascript | SQLite</i>
 
 ---
