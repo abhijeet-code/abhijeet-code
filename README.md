@@ -24,7 +24,7 @@
 
 | Category                  | Technologies                                                                 |
 |---------------------------|------------------------------------------------------------------------------|
-| 👨‍💻 **Languages**         | SQL, Python, C++, Java, Javascript, HTML, CSS, Bash                          |
+| 👨‍💻 **Languages**         | SQL{MySQL, PostgreSQL}, MongoDB, Python, C++, Java, Javascript, HTML, CSS, Bash                          |
 | 🧠 **Frameworks & Libs** | SpringBoot, TensorFlow, PyTorch, Scikit-learn, MediaPipe, Flask, Django,Numpy, pandas  |
 | 🧰 **Tools & Platforms** | Models, POSIX pthreads, C++STL, TKinter, Flask, Socket Programming, OOPs     |
 | 🎨 **Skills**            | UI/UX Design, Research Writing, Statistical Analysis, Computational Analysis |
