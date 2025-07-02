@@ -54,8 +54,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px"/>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-code&layout=compact&theme=radical" height="180px"/>
 </p>
 
