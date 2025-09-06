@@ -32,13 +32,13 @@
 ---
 
 ## 🚀 PROJECTS
-🔊 **FinRisk -- Credit Risk and Default Prediction**
+📊 **FinRisk -- Credit Risk and Default Prediction**
 > Machine learning-driven credit risk prediction system designed to help lending institutions assess the likelihood of loan default using real-world financial data.<br><i>Python | Quantitative Finance | scikit-learn | imbalanced-learn | pandas | numpy | seaborn</i>
 
 🔊 **SpeeechSync -- Speech-to-Speech Translation**
 > Real-time multilingual translator using ASR, NMT, and TTS.<br><i>Python | OpenAI Whisper | MarianMT | Tacotron</i> 
 
-🔊 **ScamShield -- Phishing SMS Detector**
+🛡️ **ScamShield -- Phishing SMS Detector**
 > A Spring Boot application designed to detect phishing URLs embedded in SMS messages.<br><i>Java 17 | Spring Boot | Gradle | Jackson (JSON parsing) | Spring Web | Java Regex | REST API</i> 
 
 💰 [**Auction Platform**](https://auction-rust.vercel.app/)
