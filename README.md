@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech Computer Science (AI & ML)**, 5th Semester
+- 🎓 **B.Tech Computer Science (AI & ML)**, 7th Semester
 - 💼 Currently building projects in **Finance, AI, ML & NLP** 
 - 🧪 **Research-Driven | Competitive programmer**
 - 🧠 **Learner | Innovation Seeker**
