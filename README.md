@@ -36,7 +36,7 @@
 > NeuroSense is an AI-powered cognitive screening platform designed to assist in the early detection of Mild Cognitive Impairment (MCI) and Alzheimer's Disease through speech-based neuropsychological assessments. The platform integrates four standardized speech assessments and automates the analysis of speech biomarkers using advanced Natural Language Processing (NLP) and machine learning techniques.<br><i> Whisper | SBERT | Cross‐Encoder | GPT‐2 | spaCy | Hugging Face Transformers | Scikit‐learn | Python | MongoDB</i>
 
 <img width="19" height="19" alt="image" src="https://github.com/user-attachments/assets/27c0cd77-0198-481a-b155-c760f2fd9659" /> **Apex Retail — Store Intelligence System**
-> An end-to-end pipeline that converts raw CCTV footage into live store analytics. Built for the Purplle Tech Challenge 2026.<br>North Star Metric: Offline Store Conversion Rate = Purchases ÷ Unique Visitors<br><i> Python | LangChain | Llama 2 (7B) | FAISS | Sentence‐Transformers | Gradio | Hugging Face|</i>
+> An end-to-end pipeline that converts raw CCTV footage into live store analytics. Built for the Purplle Tech Challenge 2026.<br>North Star Metric: Offline Store Conversion Rate = Purchases ÷ Unique Visitors<br><i> Python | YOLOv8n (Ultralytics) | BoT-SORT | Cosine Similarity | OpenCV | FastAPI | ydantic v2 | SQLAlchemy | SQLite | JSONL | CSV Processing</i>
 
 🌱**HydroBot - Hydroponics Education Chatbot**
 > An AI-powered chatbot that answers questions about hydroponic farming using Retrieval Augmented Generation (RAG) with Llama 2 and a curated knowledge base of 85 hydroponics-related PDFs.<br><i> Python | LangChain | Llama 2 (7B) | FAISS | Sentence‐Transformers | Gradio | Hugging Face|</i>
